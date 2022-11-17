@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 ## Hey 👋, This is Yun Seokchan
 [![Gmail Badge](https://img.shields.io/badge/-y36609672@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:y36609672@gmail.com)](mailto:y36609672@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-seyunparis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyunparis/)](https://www.linkedin.com/in/seyun-paris/) 
-[![Github Badge](https://img.shields.io/badge/-zeroet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zeroet/)](https://www.github.com/zeroet/) 
+[![Github Badge](https://img.shields.io/badge/-zeroet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zeroet/)](https://www.github.com/zeroet/)
 
 <p align='left'>Backend Developer in Paris. 
 @Ecole42 Paris</p>
 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
@@ -30,6 +32,9 @@ Here are some ideas to get you started:
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
 ![GraphQl](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 [![seyun's 42 stats](https://badge42.vercel.app/api/v2/clal7g3tu01010fldpinf4szk/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
