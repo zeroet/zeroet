@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💬 Always try to improve my coding skills.
 
 [![Gmail Badge](https://img.shields.io/badge/-y36609672@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:y36609672@gmail.com)](mailto:y36609672@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-seyunparis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyunparis/)](https://www.linkedin.com/in/seyun-paris/) 
+[![Linkedin Badge](https://img.shields.io/badge/-seyunparis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/linkein/)](https://www.linkedin.com/in/seyun-paris/) 
 [![Github Badge](https://img.shields.io/badge/-zeroet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zeroet/)](https://www.github.com/zeroet/)
 [![wakatime](https://wakatime.com/badge/user/c16f8327-4943-4a46-9ef0-0242b2901d85.svg)](https://wakatime.com/@c16f8327-4943-4a46-9ef0-0242b2901d85)
 
