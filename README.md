@@ -47,4 +47,5 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:waka-->
+[![zeroet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeroet)]
 <!--END_SECTION:waka-->
