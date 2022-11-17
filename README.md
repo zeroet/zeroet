@@ -25,7 +25,5 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroet&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 </p>
 
-
-
-[![wakatime](https://wakatime.com/badge/user/c16f8327-4943-4a46-9ef0-0242b2901d85.svg)](https://wakatime.com/@c16f8327-4943-4a46-9ef0-0242b2901d85)
-[![seyun's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seyun)]
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
