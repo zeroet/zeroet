@@ -20,13 +20,20 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-zeroet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zeroet/)](https://www.github.com/zeroet/)
 [![wakatime](https://wakatime.com/badge/user/c16f8327-4943-4a46-9ef0-0242b2901d85.svg)](https://wakatime.com/@c16f8327-4943-4a46-9ef0-0242b2901d85)
 
+---
+
 <p align='left'>🌱 Hi, i'm student Ecole42 Paris</p>
 
 [![seyun's 42 stats](https://badge42.vercel.app/api/v2/clal7g3tu01010fldpinf4szk/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 
+### 💻 Os
+---
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOs](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
+---
+
+### 👍Skill List
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -38,8 +45,9 @@ Here are some ideas to get you started:
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
+---
 
-
+### 🛠Github Stats
 
 
 <p>
