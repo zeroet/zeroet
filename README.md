@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, I'm Yun Seokchan
+## 👋, I'm Yun Seokchan
 
 🤔 I'm currently learning back-end skills.  
 💬 Always try to improve my coding skills.
