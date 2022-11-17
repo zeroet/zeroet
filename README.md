@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hey 👋, I'm Yun Seokchan
 
-🤔 I'm currently learning back-end skills. 
+🤔 I'm currently learning back-end skills.  
 💬 Always try to improve my coding skills.
 
 [![Gmail Badge](https://img.shields.io/badge/-y36609672@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:y36609672@gmail.com)](mailto:y36609672@gmail.com) 
