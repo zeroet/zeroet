@@ -20,5 +20,7 @@ Here are some ideas to get you started:
 
 
 
-[![zeroet's GitHub stats](https://github-readme-stats.vercel.app/api?username=zeroet)](https://github.com/zeroet/github-readme-stats)****
-
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeroet&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroet&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+</p>
