@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-[![seyun's 42 stats](https://badge42.vercel.app/api/v2/clal7g3tu01010fldpinf4szk/stats?cursusId=21&coalitionId=11)](https://github.com/JaeSeoKim/badge42)
+[![seyun's 42 stats](https://badge42.vercel.app/api/v2/clal7g3tu01010fldpinf4szk/stats?cursusId=21&coalitionId=47)](https://github.com/JaeSeoKim/badge42)
 
