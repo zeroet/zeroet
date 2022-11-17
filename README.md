@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->## Hey 👋, This is Yun Seokchan
 [![Gmail Badge](https://img.shields.io/badge/-y36609672@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:y36609672@gmail.com)](mailto:y36609672@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-seyunparis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyunparis/)](https://www.linkedin.com/in/seyunparis/) [![Github Badge](https://img.shields.io/badge/-zeroet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zeroet/)](https://www.github.com/zeroet/) <p align='left'>Backend Developer in Paris. 
+[![Linkedin Badge](https://img.shields.io/badge/-seyunparis-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seyunparis/)](https://www.linkedin.com/in/seyun-paris/) 
+[![Github Badge](https://img.shields.io/badge/-zeroet-grey?style=flat&logo=github&logoColor=white&link=https://github.com/zeroet/)](https://www.github.com/zeroet/) 
+
+<p align='left'>Backend Developer in Paris. 
 @Ecole42 Paris</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeroet&layout=compact)](https://github.com/zeroet/github-readme-stats)
-
 
 
 
