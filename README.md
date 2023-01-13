@@ -54,10 +54,10 @@ Here are some ideas to get you started:
 ### 🛠Github Stats
 
 
-<p>
+
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?zeroet=anuraghazra&show_icons=true&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?zeroet=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 <!--START_SECTION:waka-->
 ![zeroet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zeroet)
