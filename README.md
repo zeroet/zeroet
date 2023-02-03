@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,16 +106,16 @@ Sunday       31 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     1 hr 8 mins         █████████████████████████   100.0%
+HTML                     12 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 8 mins         █████████████████████████   100.0%
+VS Code                  12 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-React-movies             1 hr 8 mins         █████████████████████████   100.0%
+React-movies             12 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      1 hr 8 mins         █████████████████████████   100.0%
+Mac                      12 mins             █████████████████████████   100.0%
 
 ```
 
@@ -136,5 +136,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zeroet/zeroet/main/charts/bar_graph.png) 
 
 
- Last Updated on 02/02/2023 18:42:40 UTC
+ Last Updated on 03/02/2023 18:43:14 UTC
 <!--END_SECTION:waka-->
