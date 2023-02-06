@@ -61,9 +61,9 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -106,16 +106,19 @@ Sunday       31 commits     █░░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               13 mins             ████████████████░░░░░░░░░   65.82% 
+HTML                     6 mins              ███████░░░░░░░░░░░░░░░░░░   31.45% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.03% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.7%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     20 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 mins             █████████████████████████   100.0%
 
 ```
 
@@ -136,5 +139,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zeroet/zeroet/main/charts/bar_graph.png) 
 
 
- Last Updated on 05/02/2023 18:39:59 UTC
+ Last Updated on 06/02/2023 18:42:48 UTC
 <!--END_SECTION:waka-->
