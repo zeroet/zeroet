@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-41%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 > 🏆 31 Contributions in the Year 2023
  > 
-> 📦 83.0 kB Used in GitHub's Storage 
+> 📦 83.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -106,16 +106,17 @@ Sunday          31 commits       █░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               27 mins             ███████████████████████░░   94.13 % 
+HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  29 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+test                     29 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      29 mins             █████████████████████████   100.00 % 
 
 ```
 
@@ -136,5 +137,5 @@ PHP                      1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/zeroet/zeroet/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/02/2023 18:43:18 UTC
+ Last Updated on 18/02/2023 18:39:26 UTC
 <!--END_SECTION:waka-->
