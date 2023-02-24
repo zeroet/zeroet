@@ -104,17 +104,16 @@ Sunday                   33 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-TypeScript               27 mins             ████████████████████████░   94.13 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-test                     29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      29 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -134,5 +133,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zeroet/zeroet/main/assets/bar_graph.png)
 
 
- Last Updated on 23/02/2023 18:42:33 UTC
+ Last Updated on 24/02/2023 18:42:06 UTC
 <!--END_SECTION:waka-->
