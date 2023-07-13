@@ -104,16 +104,16 @@ Sunday                   53 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     17 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+k8s                      17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -133,5 +133,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zeroet/zeroet/main/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2023 18:40:29 UTC
+ Last Updated on 13/07/2023 18:40:16 UTC
 <!--END_SECTION:waka-->
