@@ -77,45 +77,6 @@ Here are some ideas to get you started:
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                29 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
-🌆 Daytime                286 commits         ███████░░░░░░░░░░░░░░░░░░   26.78 % 
-🌃 Evening                551 commits         █████████████░░░░░░░░░░░░   51.59 % 
-🌙 Night                  202 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   142 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Tuesday                  247 commits         ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
-Wednesday                195 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
-Thursday                 188 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.60 % 
-Friday                   81 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-Saturday                 162 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Sunday                   53 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -133,5 +94,5 @@ Python                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/zeroet/zeroet/main/assets/bar_graph.png)
 
 
- Last Updated on 04/12/2023 18:38:32 UTC
+ Last Updated on 05/12/2023 18:37:47 UTC
 <!--END_SECTION:waka-->
